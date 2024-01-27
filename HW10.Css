@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.Header {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.Info, .Skills, .Additional-Information {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.Info h2, .Skills h2, .Additional-Information h2 {
+    color: #343a40;
+    margin-top: 0;
+}
+
+.InfoLi, .SkillsLi, .AI {
+    list-style-type: none;
+    padding: 0;
+}
+
+.Footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.Footer a {
+    color: #fff;
+}
+
+.Footer a:hover {
+    text-decoration: underline;
+}
